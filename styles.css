@@ -1,0 +1,16 @@
+body {
+    background-color:gray
+}
+h1 {
+    color: aliceblue;
+}
+img {
+    border-style: solid;
+    border-width: 10px;
+    border-color: black;
+}
+a {
+    color:aliceblue;
+    font-size: 36px;
+    text-decoration: none;
+}
